@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F8435DAC-1FC9-4A19-AC5B-49689611C39E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A690DDB8-0819-43E8-9F1A-5446147519DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MySettings/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A690DDB8-0819-43E8-9F1A-5446147519DE - 35857a224fa6e621"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MySettings.ViewController.username.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "MySettings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucy/Documents/CIS280/MySettings/MySettings/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A690DDB8-0819-43E8-9F1A-5446147519DE - 30a2772cc207122d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MySettings.ViewController.username.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "MySettings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucy/Documents/CIS280/MySettings/MySettings/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "A690DDB8-0819-43E8-9F1A-5446147519DE - c73f70bd65c27b2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MySettings.ViewController.username.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "MySettings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucy/Documents/CIS280/MySettings/MySettings/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "A690DDB8-0819-43E8-9F1A-5446147519DE - ae34c066f86cedfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MySettings.ViewController.username.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MySettings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucy/Documents/CIS280/MySettings/MySettings/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "A690DDB8-0819-43E8-9F1A-5446147519DE - d4f0ddf028172993"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MySettings.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MySettings.ViewController"
+                  moduleName = "MySettings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucy/Documents/CIS280/MySettings/MySettings/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "531">
+               </Location>
+               <Location
+                  uuid = "A690DDB8-0819-43E8-9F1A-5446147519DE - 1cdf410c1d1fb724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MySettings.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MySettings.ViewController&gt;"
+                  moduleName = "MySettings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucy/Documents/CIS280/MySettings/MySettings/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
